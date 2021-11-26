@@ -1,32 +1,3 @@
-"""
-
-Name:Benjamin Bishop
-Date:22 Aug 2021
-Assignment:Assignment #1
-Due Date:(Due Date)
-About this project: This project is an simple introductory exercise with python.
-Assumptions: User should be able to input a valid string and have the appropriate morse translation output.
-All work below was performed by Benjamin Bishop
-
-Attached is a copy of the test run
-Enter in the text.... Hello World 9
-....
-.
-.-..
-.-..
----
-
-.--
----
-.-.
-.-..
--..
-
-----.
-
-
-Process finished with exit code 0
-"""
 
 # Dictionary of morse code chart; added numbers just in case
 
