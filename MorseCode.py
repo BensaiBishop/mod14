@@ -9,8 +9,6 @@ Assumptions: User should be able to input a valid string and have the appropriat
 All work below was performed by Benjamin Bishop
 
 Attached is a copy of the test run
-
-C:\Users\bensa\PycharmProjects\pythonProject\venv\Scripts\python.exe C:/Users/bensa/PycharmProjects/pythonProject/MorseCode.py
 Enter in the text.... Hello World 9
 ....
 .
@@ -28,7 +26,6 @@ Enter in the text.... Hello World 9
 
 
 Process finished with exit code 0
-
 """
 
 # Dictionary of morse code chart; added numbers just in case
